@@ -3,8 +3,8 @@
 A Project that I implemented for the Mobile Application course in University.
 
 
-Demo:
 ![](demo.gif)
+
 
 Description: The app emulates a virtual garden.
 Players own a space of around 5x5 tiles, each of which can be populated with plant seeds.
